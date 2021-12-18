@@ -1,10 +1,9 @@
 @font-face {
     font-family: 'Thorn';
-    src: local('ceviche-one'), url('Thorn-4Bn19.ttf') format('truetype');
+    src: url('MR.MONSTAR.otf') format('opentype');
 }
 
 h1{
     font-family: 'Thorn';
-    color: rgba(255, 38, 0, 0.356);
-    text-shadow: 0 0 3px #990101, 0 0 5px #000000;
+    color: #0000005b;
 }

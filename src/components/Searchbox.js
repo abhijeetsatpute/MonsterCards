@@ -5,7 +5,7 @@ const Searchbox = ({searchChange}) => {
         <div className="pa2">
             <input 
                 autoFocus
-                className="pa3 bg-light-yellow tc"
+                className="pa2 br-pill grow red b bg-lightest-yellow tc"
                 type='search' 
                 placeholder='Search Monsters' 
                 onChange={searchChange}
