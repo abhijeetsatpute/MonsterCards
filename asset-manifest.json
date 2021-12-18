@@ -1,7 +1,7 @@
 {
-  "main.css": "/MonsterCards/static/css/main.93f2d6d9.chunk.css",
-  "main.js": "/MonsterCards/static/js/main.13f201e4.chunk.js",
-  "main.js.map": "/MonsterCards/static/js/main.13f201e4.chunk.js.map",
+  "main.css": "/MonsterCards/static/css/main.e9d66f58.chunk.css",
+  "main.js": "/MonsterCards/static/js/main.9a5d9d76.chunk.js",
+  "main.js.map": "/MonsterCards/static/js/main.9a5d9d76.chunk.js.map",
   "runtime~main.js": "/MonsterCards/static/js/runtime~main.32f05da1.js",
   "runtime~main.js.map": "/MonsterCards/static/js/runtime~main.32f05da1.js.map",
   "static/css/2.dec1bece.chunk.css": "/MonsterCards/static/css/2.dec1bece.chunk.css",
@@ -10,9 +10,9 @@
   "static/js/3.e9d442d7.chunk.js": "/MonsterCards/static/js/3.e9d442d7.chunk.js",
   "static/js/3.e9d442d7.chunk.js.map": "/MonsterCards/static/js/3.e9d442d7.chunk.js.map",
   "index.html": "/MonsterCards/index.html",
-  "precache-manifest.8d47b660565de5a45adec9639bf0f5d2.js": "/MonsterCards/precache-manifest.8d47b660565de5a45adec9639bf0f5d2.js",
+  "precache-manifest.ea451977dc3f7112a332edfa3beb9000.js": "/MonsterCards/precache-manifest.ea451977dc3f7112a332edfa3beb9000.js",
   "service-worker.js": "/MonsterCards/service-worker.js",
   "static/css/2.dec1bece.chunk.css.map": "/MonsterCards/static/css/2.dec1bece.chunk.css.map",
-  "static/css/main.93f2d6d9.chunk.css.map": "/MonsterCards/static/css/main.93f2d6d9.chunk.css.map",
-  "static/media/App.css": "/MonsterCards/static/media/Thorn-4Bn19.3c99832c.ttf"
+  "static/css/main.e9d66f58.chunk.css.map": "/MonsterCards/static/css/main.e9d66f58.chunk.css.map",
+  "static/media/App.css": "/MonsterCards/static/media/MR.MONSTAR.de0682e4.otf"
 }

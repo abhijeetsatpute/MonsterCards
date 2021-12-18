@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4a378747b2137f1a6f0f",
-    "url": "/MonsterCards/static/css/main.93f2d6d9.chunk.css"
+    "revision": "ac1c0ccc55eea8a906a9",
+    "url": "/MonsterCards/static/css/main.e9d66f58.chunk.css"
   },
   {
-    "revision": "4a378747b2137f1a6f0f",
-    "url": "/MonsterCards/static/js/main.13f201e4.chunk.js"
+    "revision": "ac1c0ccc55eea8a906a9",
+    "url": "/MonsterCards/static/js/main.9a5d9d76.chunk.js"
   },
   {
     "revision": "c04f4fe6b8a134d06cb7",
@@ -24,11 +24,11 @@ self.__precacheManifest = [
     "url": "/MonsterCards/static/js/3.e9d442d7.chunk.js"
   },
   {
-    "revision": "3c99832cbf42474a4bccdc272767b559",
-    "url": "/MonsterCards/static/media/Thorn-4Bn19.3c99832c.ttf"
+    "revision": "de0682e4425eaec3d2b9cafeabca7cd6",
+    "url": "/MonsterCards/static/media/MR.MONSTAR.de0682e4.otf"
   },
   {
-    "revision": "69ef009d4b963311f9e22441acc1d392",
+    "revision": "3bc250577c83b092b5aeb3571e7d5de9",
     "url": "/MonsterCards/index.html"
   }
 ];
