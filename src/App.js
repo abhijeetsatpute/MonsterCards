@@ -2,6 +2,7 @@ import React, {Component} from "react";
 import {monsters} from './monsters';
 import CardList from "./CardList";
 import Searchbox from './Searchbox';
+import Scroll from './Scroll';
 import './App.css'
 
 class App extends Component {
@@ -25,7 +26,9 @@ class App extends Component {
             <div className="tc">
                 <h1 className="f1 dim">Monster Cards</h1>
                 <Searchbox searchChange={this.onSearchChange}/>
-                <CardList monsters={filteredMonsters} />
+                <Scroll>
+                    <CardList monsters={filteredMonsters} />
+                </Scroll>
             </div>
         );
     }
