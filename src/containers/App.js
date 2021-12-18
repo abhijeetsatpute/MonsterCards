@@ -1,5 +1,4 @@
 import React, {Component} from "react";
-import {monsters} from '../monsters';
 import CardList from "../components/CardList";
 import Searchbox from '../components//Searchbox';
 import Scroll from '../components/Scroll';
@@ -12,6 +11,12 @@ class App extends Component {
             monsters : [],
             searchfield : ''
         }
+    }
+
+    componentDidMount() {
+        fetch('https://jsonplaceholder.typicode.com/users')
+        .then(response => response.json())
+        .then(users=> this.setState({monsters: users}));
     }
 
     onSearchChange = (event) => {
